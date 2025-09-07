@@ -8,5 +8,9 @@
 注：想恢复小讯，只要按住头部通电变紫灯恢复出厂设置就行了。   
 
 If It Helps
-![f0c8d99c2b1d614ec42ab27e1185f96c](https://github.com/user-attachments/assets/eac3ef3f-c3f9-4e01-bae2-8830f168d581)
-<img width="124" height="1692" alt="ec8df43f016b0aed0a89288554c995b6" src="https://github.com/user-attachments/assets/77d51141-3c91-423f-a92b-f5dbade337c1" />
+<div style="display:flex; gap:12px; align-items:flex-start; flex-wrap:wrap;">
+  <img src="https://github.com/user-attachments/assets/eac3ef3f-c3f9-4e01-bae2-8830f168d581"
+       alt="img1" style="height:240px; width:auto;">
+  <img src="https://github.com/user-attachments/assets/77d51141-3c91-423f-a92b-f5dbade337c1"
+       alt="img2" style="height:240px; width:auto;">
+</div>
